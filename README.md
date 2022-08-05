@@ -1,6 +1,4 @@
 # Olá, bem vindo ao meu perfil no Github !
-#### Sou um desenvolvedor bem flexivel, já tive contato com diversas linguagens tais como Java, Python, Kotlin entre outras, também estou me graduando em Analise e Desenvolvimento de Sistemas.<br>Possuo muito interesse em aprender coisas novas, me adapto fácil a novos desafios.
-
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC_mabm7-fM0a1elLp7Tx-4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aleps.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -8,9 +6,14 @@
   <a href="https://www.linkedin.com/in/alepsdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+#### Sou um desenvolvedor bem flexivel, já tive contato com diversas linguagens tais como Java, Python, Kotlin entre outras, também estou me graduando em Analise e Desenvolvimento de Sistemas.<br>Possuo muito interesse em aprender coisas novas, me adapto fácil a novos desafios.
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alepsdev&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alepsdev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
                                                        
