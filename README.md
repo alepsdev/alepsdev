@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/alepsdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-#### Sou um desenvolvedor bem flexivel, já tive contato com diversas linguagens tais como Java, Python, Kotlin entre outras, também estou me graduando em Analise e Desenvolvimento de Sistemas.<br>Possuo muito interesse em aprender coisas novas, me adapto fácil a novos desafios.
+#### Sou um desenvolvedor bem flexivel, já tive contato com diversas linguagens tais como Java, Python, Kotlin entre outras.<br>Possuo muito interesse em aprender coisas novas, me adapto fácil a novos desafios.
 
 
 
