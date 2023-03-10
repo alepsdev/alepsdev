@@ -6,7 +6,11 @@
   <a href="https://www.linkedin.com/in/alepsdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-#### Sou um desenvolvedor bem flexivel, já tive contato com diversas linguagens tais como Java, Python, Kotlin entre outras.<br>Possuo muito interesse em aprender coisas novas, me adapto fácil a novos desafios.
+#### Atualmente estou estudando o ecossistema React para atuar com desenvolvimento web e mobile, mas já estudei Spring, Flutter e Android/Kotlin. Possuo a habilidade em reconhecer processos que podem ser automatizados.
+
+#### Um breve resumo: Tenho experiência em levantamento de requisitos, onde adquiri trabalhando como analista de implantação durante um ano, após isso, iniciei ativamente na programação em 2021 quando iniciei em uma equipe onde construíamos ferramentas ETL com Python para migração de dados, iniciei um novo ciclo indo para outra equipe em 2022 onde trabalho com Groovy construindo scripts de integração utilizando APIs.
+
+####  Estou animado para aplicar minhas habilidades e experiência em um novo desafio.
 
 
 
