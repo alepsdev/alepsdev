@@ -9,6 +9,7 @@
 #### Olá, possuo experiências com :
 
 - Java 8/11
+- Jakarta EE
 - Maven
 - SpringBoot
 - API REST
