@@ -15,15 +15,11 @@
 - API REST
 - Python
 
-Um breve resumo: Tenho experiência em levantamento de requisitos, onde adquiri trabalhando como analista de implantação durante um ano, após isso, iniciei ativamente na programação em 2021 quando iniciei em uma equipe onde construíamos ferramentas ETL com Python para migração de dados, migrei para outra equipe em 2022 onde trabalhei com Groovy construindo scripts de integração utilizando APIs, em 2023 passei a atuar diretamente no desenvolvimento de aplicações utilizando Java.
+Tenho experiência em levantamento de requisitos, onde adquiri trabalhando como analista de implantação durante um ano, após isso, iniciei ativamente na programação em 2021 quando iniciei em uma equipe onde construia ferramentas ETL com Python para automação de migração de dados, iniciei um novo ciclo indo para outra equipe em 2022 onde trabalhei com Groovy construindo scripts de integração utilizando APIs, em 2023 consegui uma vaga no backend onde trabalhei com JavaEE, jakartaEE, Maven, AngularJS, no inicio de 2024 fui convidado a participar de uma equipe nova onde iria trabalhar focado na criação de APIs de integração com parceiros e é onde estou atualmente.
 
 Contato/Whatsapp : [(51) 997723662](https://wa.me/+5551997723662)
 Email : alessandropazdasilva@gmail.com
 LinkedIn :[ github.com/alepsdev](https://www.linkedin.com/in/alepsdev/)
-
-####  Estou animado para aplicar minhas habilidades e experiência em um novo desafio.
-
-
 
 
 <div align="center">
@@ -35,8 +31,6 @@ LinkedIn :[ github.com/alepsdev](https://www.linkedin.com/in/alepsdev/)
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 </div>
 
 
