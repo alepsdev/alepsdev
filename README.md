@@ -7,10 +7,10 @@
 
 🔧 **Tecnologie principali:**
 - Linguaggi: **Java, Python, Groovy**
-- Backend: **Jakarta EE (JavaEE), Spring, JAX-RS**
+- Backend: **Jakarta EE (JavaEE), Spring**
 - Code & build tools: **Maven, GitHub Actions, Git**
-- Altri strumenti: **ActiveMQ, PostgreSQL, Elasticsearch, Keycloak, JasperReports**
-- Esperienza anche come full stack: **JSF, PrimeFaces, JavaScript, HTML/CSS**
+- Altri strumenti: **ActiveMQ, PostgreSQL, Elasticsearch, AWS S3, Hibernate, Kubernetes**
+- Esperienza anche come full stack: **AngularJS, JavaScript, HTML/CSS**
 
 🛠️ **Cosa ho già fatto:**
 - Sviluppo di **sistemi contabili pubblici** in Java (Jakarta EE) con integrazioni complesse tra enti.
@@ -24,4 +24,4 @@
 
 📞 Contatto / WhatsApp: [+39 392 467 1708](https://wa.me/+393924671708)
 📧 Email: a.pspizzetti@gmail.com
-🔗 LinkedIn: [linkedin.com/in/alepsdev](https://www.linkedin.com/in/alepsdev/)
+🔗 LinkedIn: [linkedin.com/in/alepspizzetti](https://www.linkedin.com/in/alepspizzetti/)
